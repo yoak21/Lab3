@@ -1,0 +1,10 @@
+•	STEP 1: - mkdir bookmart
+•	STEP 2: -cd bookmart
+•	STEP 3: -npm init –y
+•	STEP 4: -npm install express body-parser
+•	STEP 5: -Create a new file named as index.js (in bookmart folder).
+•	STEP 6: -Copy the below code to index.js.
+
+
+•	STEP 7: - node index.js.
+
